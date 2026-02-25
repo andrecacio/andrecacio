@@ -15,12 +15,6 @@ I am a Software Engineer specializing in backend development, cloud architecture
 **Frameworks & Web:** Express.js, React, HTML/CSS 
 **Tools & Infrastructure:** Git, Docker, Postman, Linux 
 
-### 💻 Featured Projects
-* **[GeoControl]** - *IoT Backend API*
-    Developed the backend infrastructure for a simulated IoT sensor and gateway monitoring system.Implemented an MVC architecture, automated testing suites, and Docker containerization.
-* **[Stuff Happens]** - *Full-Stack Web Application*
-    Built a complete interactive web application featuring a React frontend and an Express.js/SQL backend, managing complex game state and data persistence.
-
 ### 🤝 Let's work together
 I am currently available for freelance projects. I can help you with:
 * Building and debugging RESTful APIs.
